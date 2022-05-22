@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198987395001",
+    "firebase_url": "https://crudkt-default-rtdb.firebaseio.com",
+    "project_id": "crudkt",
+    "storage_bucket": "crudkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198987395001:android:274a1563374daee0b99068",
+        "android_client_info": {
+          "package_name": "com.example.rumahsambal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198987395001-pirortnk367sj523r71f6g10tue5quks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtcWc8lX2p_bcxiRGSnQdrBGjWzZI1JLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198987395001-pirortnk367sj523r71f6g10tue5quks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
